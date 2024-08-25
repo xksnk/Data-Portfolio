@@ -1,1 +1,3 @@
-This repository showcases my skills and projects in data analysis, data visualization, and machine learning. It includes various projects that demonstrate my ability to clean, process, and analyze data, as well as create insightful visualizations and predictive models. Each project is organized into separate folders with detailed explanations and code examples. This portfolio is intended to illustrate my proficiency in using tools like Python, Pandas, NumPy, Matplotlib, and Scikit-Learn, and to serve as a reference for potential employers and collaborators.
+Постепенно создаю портфолио аналитика данных. Кейсы у меня в Notion ‣.
+https://ksnk-portfolio.notion.site/
+А здесь собираю инструкции и полезные строчки кода.
