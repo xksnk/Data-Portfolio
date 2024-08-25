@@ -1,3 +1,3 @@
-Постепенно создаю портфолио аналитика данных. Кейсы у меня в Notion ‣.
-https://ksnk-portfolio.notion.site/
-А здесь собираю инструкции и полезные строчки кода.
+I am gradually building my data analyst portfolio.
+My case studies are in Notion http://ksnk-portfolio.notion.site/.
+And here I collect instructions and useful code snippets.
